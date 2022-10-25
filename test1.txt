@@ -16,3 +16,18 @@ Steps:
 		e) git remote add origin https://github.com/Shubmagotra93/Repo2.git
 		f) git push -u origin master
 
+Create branch
+	git branch "branch name"   //dont use quotes
+
+checkout branch
+	git checkout "branch name"
+
+merge branch to master
+	first checkout to master branch
+	git merge "branch name"
+
+delete branch
+	git branch -d "branch name"    --local repo
+	git push origin--delete "branch name"  ---remote repo
+
+
