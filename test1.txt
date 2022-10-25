@@ -1,1 +1,12 @@
-changed  1
+Git :  Distributed Version control System
+Git hub : Online platform to manage repositries
+
+Steps: 
+	1. Download Git and check git --version
+	2. Add Project to git(Create files/folders)
+	3. Git Commands:
+		a) git init
+		b) git status
+		c) git add
+		d) git commit -m "add message here"
+
