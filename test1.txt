@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A4CB-D4DE
+
+ Directory of C:\Users\shubm\Desktop\TestProject
+
+25-10-2022  15:45    <DIR>          .
+25-10-2022  15:45    <DIR>          ..
+25-10-2022  15:45                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  172,115,095,552 bytes free
