@@ -57,6 +57,8 @@ Caching:
 Layering:
 	there can be many layers (intermedatires) between client and server. These are HTTP intermedatires.
 	can be used for message translations/improving performnace with caching etc..
+
+An API is designed to expose certain aspects of an application's business logic on a server, and SOAP uses a service interface to do this while REST uses URIs.
 	
 	
 
