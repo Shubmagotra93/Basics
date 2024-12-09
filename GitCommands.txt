@@ -10,6 +10,10 @@ Steps:
 	git config --global user.email "shubmagotra93@gmail.com"
 	git config --global user.name "shubmagotra93"
 
+	git config --list - View All Configurations Combined
+	git config --list --show-origin - Identify the Configuration File Paths - /home/shubham/.gitconfig
+	
+	
 	git clone "repo url" 
 	git init
 	git status
