@@ -37,12 +37,12 @@ Steps:
 		git push origin master
 		
 	Rename branch name:
-		First checkout to branch you want to rename
+		First checkout to branch you want to rename 
 		git branch -M new_name
 	
 		
 	delete branch:
 		git branch -d "branch name"    --local repo
-		git push origin--delete "branch name"  ---remote repo
+		git push origin --delete "branch name"  ---remote repo
 
 
