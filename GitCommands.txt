@@ -32,6 +32,15 @@ Steps:
 	merge branch to master:
 		first checkout to master branch
 		git merge "branch name"
+		
+		after merge need to push changes to remote
+		git push origin master
+		
+	Rename branch name:
+		First checkout to branch you want to rename
+		git branch -M new_name
+	
+		
 	delete branch:
 		git branch -d "branch name"    --local repo
 		git push origin--delete "branch name"  ---remote repo
