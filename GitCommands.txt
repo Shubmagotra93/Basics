@@ -21,6 +21,7 @@ Steps:
 	git commit -m "add message here"
 	git remote add origin https://github.com/Shubmagotra93/Repo2.git
 	git push -u origin master
+	git pull - fetches all data from remote
 
 	Create branch:
 		git branch "branch name"   //dont use quotes
