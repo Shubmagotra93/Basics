@@ -1,10 +1,10 @@
-Git :  Distributed Version control System
-Git hub : Online platform to manage repositories
+Git:  Distributed Version Control System
+Git hub: Online platform to manage repositories
 
 Steps:
 
 1. Download Git and check git --version
-2. Add Project to git(Create files/folders)
+2. Add Project to git(Create files/folders) using <git init> command
 3. Use Git Command accordingly:
 
 	git config --global user.email "shubmagotra93@gmail.com"
